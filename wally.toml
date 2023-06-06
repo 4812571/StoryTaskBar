@@ -1,6 +1,6 @@
 [package]
-name = "nottirb/storytaskbar"
-version = "0.1.1-beta"
+name = "4812571/story-task-bar"
+version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 

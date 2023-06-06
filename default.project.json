@@ -1,5 +1,5 @@
 {
-    "name": "StoryTaskBar",
+    "name": "story-task-bar",
     "tree": {
         "$path": "src"
     }
